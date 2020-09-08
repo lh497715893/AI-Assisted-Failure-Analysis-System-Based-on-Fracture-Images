@@ -1,0 +1,19 @@
+Adaptive threshold.py:
+Methods to segment crack propagation and fast fracture:
+
+1.	Adaptive threshold to segment the crack propagation and fast fracture;
+2.	Global threshold to segment the crack propagation and fast fracture;
+3.	Erosion for denoise and dilation for dilate right area;
+
+contour_features.py:
+1.	Find the largest contours;
+2.	Find contour Area
+3.	Find contour Perimeter
+4.	Find contour approximation
+5.	Find bounding Rectangle
+6.	Find rotated Rectangle
+7.	Minimum Enclosing Circle
+Find the contours of the fatigue fracture surface images;
+
+image statistics.py:
+1.	Find the statistic result of the crack propagation and fast fracture
