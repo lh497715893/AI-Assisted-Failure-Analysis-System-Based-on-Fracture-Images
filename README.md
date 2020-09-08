@@ -14,32 +14,27 @@ Prerequisites:
 
 Create virtual environment: 
 
-1.
-#Check the version of Python
+1.#Check the version of Python
 
 python3.7 -V
 
 
-2.
-#Check and install upgraded pip
+2.#Check and install upgraded pip
 
 python3.7 -m pip install pip --upgrade
 
 
-3.
-#Install piping virtual environment
+3.#Install piping virtual environment
 
 python3.7 -m pip install pipenv
 
 
-4.
-#Direct to your path of your project
+4.#Direct to your path of your project
 
 cd PATH-TO-YOUR-PROJECT/
 
 
-5.
-#Check the version of the pipenv
+5.#Check the version of the pipenv
 
 pipenv
 
